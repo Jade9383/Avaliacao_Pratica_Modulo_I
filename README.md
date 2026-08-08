@@ -77,7 +77,7 @@ Tente rodar o programa com esses valores:
 | 95        | 1.60       | 37.11         | Obesidade Grau II 🔴 |
 | 92        | 1.70       | 31.83         | Obesidade Grau I 🟠     |
 | 110       | 1.70       | 38.06         | Obesidade Grau II 🔴 |
-| 120       | 1.60       | 46.87         | Cuidado com a Saúde ⚠️ |
+| 120       | 1.60       | 46.87         | Obesidade Grau III (mórbida) 🚨 |
 
 ---
 
